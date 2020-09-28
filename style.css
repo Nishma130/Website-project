@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(2, 70, 64);
+    background-image: url("imageone.jpg");
+    background-position: center;
+    background-repeat: repeat;
+    color: black;
+
+}
+
+h1{
+    color: black;
+    background-color: coral;
+    font: italic 200% fantasy;
+    text-align: center;
+    border: 3px groove pink;
+    width: fit-content;
+    padding: 10px;
+}
+
+h2{
+    color: black;
+    background-color: cornflowerblue;
+    width: fit-content;
+    padding: 10px;
+
+}
+
+h3{
+    color: black;
+    background-color: chartreuse;
+    width: fit-content;
+    padding: 10px;
+
+}
+
+h4{
+    color: black;
+    background-color: lightcoral;
+    width: fit-content;
+    padding: 10px;
+
+}
+
+img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+
+}
